@@ -1,0 +1,8 @@
+	Utilizatorul trebuie sa poate posta intrebari , incadrate intr-o anumita categorie sau mai multe .
+	
+	Dupa ce a fost postata o intrebare de catre un 
+utilizator aceasta trebuie sa apare in feed-ul principal . In feed-ul principal apar toate intrebarile postate ,sub foarma unui dreptunghi care contine 
+titlul , inceputul textului intrebarii , categoriile in care se plaseaza acestea , un sumar despre utilizatorul care a postat intrebarea , numarul de voturi
+si numarul de vizualizari.
+	Orice utilizator trebuie sa poata parcurge feed-ul principal , sa poata vizualiza o anumita intrebare 
+ 
