@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Question.Domain": {
+      "commandName": "Project"
+    },
+    "test": {
+      "commandName": "Project",
+      "commandLineArgs": "dasdasda",
+      "workingDirectory": "D:\\FACULTATE\\Anul 4 Catalin Petrica\\PSSC\\PSSC-2020\\Petrica-Catalin\\L04",
+      "environmentVariables": {
+        "id": "1"
+      }
+    }
+  }
+}
